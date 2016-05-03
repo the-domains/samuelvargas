@@ -22,7 +22,7 @@ color:
     - '#adadad'
     - '#696969'
     - '#72ffd5'
-  brandStrength: 0.875
+  brandStrength: 0.625
   lightness: 0.75
   saturation: 0.625
   rhythmicContrast: 0.75
