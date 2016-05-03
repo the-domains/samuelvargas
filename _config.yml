@@ -1,0 +1,28 @@
+name: SamuelVargas
+favicon: null
+layout_spectrum: 0.6322423797100782
+typography_spectrum: 0.27936320123262703
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9970639187376946
+  lightness: 0.9794675572775304
+  saturation: 0.9682039683684707
+  rhythmicContrast: 0.9277888657525182
+purpose: []
