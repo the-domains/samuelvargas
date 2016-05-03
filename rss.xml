@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[SamuelVargas]]></title>
-        <description><![CDATA[SamuelVargas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Samuel Vargas]]></title>
+        <description><![CDATA[Samuel Vargas]]></description>
+        <link>https://thegrid.ai/samuelvargas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 20:47:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 May 2016 21:09:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/samuelvargas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Bienvenidos a mi primer post en theGrid.</p>]]></description>
-            <link>undefinedbienvenidos-a-mi-primer-post-en-thegrid/index.html</link>
+            <title><![CDATA[Bienvenidos]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da1f9bef-0d43-48eb-84e8-df0c9858b8d5.jpg">]]></description>
+            <link>https://thegrid.ai/samuelvargas/bienvenidos-a-mi-primer-post-en-thegrid/index.html</link>
             <guid isPermaLink="false">30209ac5-45ae-45d3-a6fe-b2228ae706e8</guid>
-            <pubDate>Tue, 03 May 2016 20:47:59 GMT</pubDate>
+            <pubDate>Tue, 03 May 2016 21:09:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
